@@ -69,6 +69,9 @@ Steve
 --
 # Changes Log
 ## 06/07/2021
+
 Added : CSS Style
+
 Removed : Tables, tr, td elements
+
 Now works with CSS Grid
