@@ -68,13 +68,62 @@ If you wish to submit improvements to the javascript, or the CSS, then I welcome
 Steve
 --
 # Changes Log
-## 06/07/2021
 
-Added : CSS Style
+# 2021-07-16
+Osiris Berbesia
+23e85bb2f2f6f23835ed0c36ff0892e2a844dcd5
+### se modifican los botones de editar y borrar
+### se agrega tooltip a los botones de guardar e ir arriba
+845f082
+# 2021-07-16
+Osiris Berbesia
+7a8dc7d9c87908f5c7683404854c3c68fd379542
+### se agregan boton de guardar y de ir arriba, se agrega color a los tags para diferenciarlos
+58bf2d0
+# 2021-07-13
+Osiris Berbesia
+eb4bb8b5b76c10d371f856b4befa48c3187a2174
+### boton inicio + cambio de layout
+54c916b
+# 2021-07-12
+Osiris Berbesia
+6466914932ab31b78dd3e33d1eb401bfbde4586e
+### edits
+851b78e
+# 2021-07-11
+Osiris Berbesia
+775a06fc0305259e5fae0d71a71f970b8fddc47f
+correcciones2
+90e722f
+# 2021-07-06
+Osiris Berbesia
+35f28247399aab960a4e7974030a54268946a3bb
+### f5
+4985973
+# 2021-07-06
+Osiris Berbesia
+121373ba10208ccd4c1d25bcf146d58f7405b81d
+### public.bookmark
+e293299
+# 2021-07-06
+Osiris Berbesia
+1c7364bf31554871ad38b730ec2cbc051c746a37
+### direccion absoluta
+b83762c
+# 2021-07-06
+Osiris Berbesia
+c0368cf1f7b57e4aa85e10dc0222b30cfccd4480
+### agregar archivos
+1c8375c
+# 2021-07-06
+Osiris Berbesia
+ff62b6813b3f35471accb65865f72821c7129d99
+### first commit
+5c9dff4
 
-Removed : Tables, tr, td elements
 
-Now works with CSS Grid
+
+
 
 # DEMO
 
