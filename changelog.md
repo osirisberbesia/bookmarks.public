@@ -1,3 +1,5 @@
+[Regresar al README](/readme.md)
+
 ## 2021-07-16
 * Osiris Berbesia
 * se modifican los botones de editar y borrar
