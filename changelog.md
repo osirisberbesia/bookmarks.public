@@ -1,4 +1,4 @@
-[Regresar al README](/readme.md)
+[Regresar al README](../../readme.md)
 
 ## 2021-07-16
 * Osiris Berbesia
